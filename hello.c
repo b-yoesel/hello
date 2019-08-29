@@ -6,7 +6,8 @@
 #include<stlib.h>
 #include<stio.h>
 
-int main(){
+int main(int argc, char**argv){
   printf("Beau\n");
+  printf("Computer Science\n");
   return 0;
 }
