@@ -1,5 +1,5 @@
 /**
-* Author : Beau Yoesel
+* Author : Beau Yoesel & Isaac Baysinger
 * Date : 8/29/2019
 * Hello World program that prints names
 */
